@@ -1,12 +1,6 @@
 <div align="center">
     <img src="https://socialify.git.ci/imoki/wsl-vbs/image?description=1&font=Rokkitt&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark">
 
-<p align="center">
-    <a href="https://github.com/imoki/wsl-vbs/stargazers"><img src="https://img.shields.io/github/stars/imoki/wsl-vbs?style=popout-square" alt="GitHub stars"></a>
-    <a href="https://github.com/imoki/wsl-vbs/network/members"><img src="https://img.shields.io/github/forks/imoki/wsl-vbs?style=popout-square" alt="GitHub forks"></a>
-    <a href="https://github.com/imoki/wsl-vbs/issues"><img src="https://img.shields.io/github/issues/imoki/wsl-vbs?style=popout-square" alt="GitHub issues"></a>
-</p>
--->
 <div id="shield">
 
 [![][github-stars-shield]][github-stars-link]
